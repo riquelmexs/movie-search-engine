@@ -56,14 +56,9 @@ function App() {
               src={`https://image.tmdb.org/t/p/w500${movie.poster_path}`}
               alt={movie.title}
             />
-            <div className="movie-info">
-              <h2 className="movie-title">{movie.title}</h2>
-              <p className="movie-release-date">{movie.release_date}</p>
-              <p className="movie-overview">
-                {movie.overview.length > 100
-                  ? movie.overview.substring(0, 100) + "..."
-                  : movie.overview}
-              </p>
+            <div className="movie-description">
+              <h2>{movie.title}</h2>
+              <p>{movie.overview.length > 100 ? movie.overview.substring(0, 100) + "..." : movie.overview}</p>
             </div>
           </div>
         ))}
