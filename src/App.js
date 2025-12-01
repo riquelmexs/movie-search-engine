@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-// Substitua pela sua chave da API TMDb
 const API_KEY = "431219b2d7d84b38c6954326730c1c09";
 const API_URL = "https://api.themoviedb.org/3";
 
