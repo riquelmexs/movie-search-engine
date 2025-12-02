@@ -19,7 +19,7 @@ Este projeto foi utilizado no **Projeto Integrador – Verificação e Validaç�
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### **Frontend**
 - React.js  
@@ -40,5 +40,6 @@ Este projeto foi utilizado no **Projeto Integrador – Verificação e Validaç�
 ---
 
 ##  Estrutura do Projeto
+
 
 
