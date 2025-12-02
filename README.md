@@ -1,4 +1,4 @@
-# 🎬 Buscador de Filmes – TMDB Movie Search
+#  Buscador de Filmes – TMDB Movie Search
 
 Aplicação desenvolvida em **React** que permite pesquisar filmes utilizando a API do **The Movie Database (TMDB)**.  
 Este projeto foi utilizado no **Projeto Integrador – Verificação e Validação de Software (TADS029)**, implementando:
@@ -10,12 +10,12 @@ Este projeto foi utilizado no **Projeto Integrador – Verificação e Validaç�
 
 ---
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
-- 🔍 Busca de filmes por nome  
-- 🎬 Exibição de pôster, nota e descrição  
-- ⚡ Atualização dinâmica dos resultados  
-- 📱 Interface simples, limpa e responsiva  
+-  Busca de filmes por nome  
+-  Exibição de pôster, nota e descrição  
+-  Atualização dinâmica dos resultados  
+-  Interface simples, limpa e responsiva  
 
 ---
 
@@ -39,5 +39,6 @@ Este projeto foi utilizado no **Projeto Integrador – Verificação e Validaç�
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
+
 
