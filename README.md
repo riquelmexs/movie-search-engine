@@ -1,1 +1,0 @@
-Projeto utilizado no Projeto Integrador de Verificação e Validação de Software (TADS029).
